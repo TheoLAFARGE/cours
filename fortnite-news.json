@@ -1,0 +1,73 @@
+{
+    "status": 200,
+    "data": {
+        "br": {
+            "hash": "e2ff7ba091fdad095c00909e990f4270e32ee37f",
+            "date": "2026-02-13T03:00:20Z",
+            "image": "https://cdn.fortnite-api.com/news/v2/e2ff7ba091fdad095c00909e990f4270e32ee37f.gif",
+            "motds": [
+                {
+                    "id": "1bfe7c09c6f3512db55684ef5474a656",
+                    "title": "Passe de combat Déferlante d'adrénaline",
+                    "tabTitle": "Passe de combat Déferlante d'adrénaline",
+                    "body": "Le Passe de combat est rempli de tenues somptueuses comme La Mariée et Marty McFly, d'emotes et de récompenses bonus, le tout disponible pour 1000 V-bucks. Terminez le Passe pour déverrouiller toutes les récompenses et gagner jusqu'à 1500 V-bucks !",
+                    "image": "https://cdn-live.prm.ol.epicgames.com/prod/efb48d4ddad8da24ac13b0cc94ac5301fcc5cc44132ba660b176b709c44c032026a7cc2f84547005a6fe07bcc0cd9415-be40cf73-2b79-4a09-ab39-197dbfaa3a3a.jpeg?width=1920&height=1080&aspect=fill",
+                    "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/efb48d4ddad8da24ac13b0cc94ac53010429746ee79ef6f8217f7771212f28aa26c4ed631e6addf1c99f4f2891af7683-ece42ac4-c597-4de3-b215-8adcd3d23fa9.jpeg?width=720&height=400&aspect=fill",
+                    "sortingPriority": 100,
+                    "hidden": false
+                },
+                {
+                    "id": "0e682d4b9b7a73a0d300b54bd9fdffb3",
+                    "title": "Les modes Classé et Zéro construction déménagent",
+                    "tabTitle": "Les modes Classé et Zéro construction déménagent",
+                    "body": "Les modes Classé et Zéro construction rejoignent les modes Battle Royale, Recharge et OG dans le menu Découvrir ! Sélectionnez le mode de jeu auquel vous souhaitez jouer dans le salon grâce au menu situé au-dessus du bouton Jouer.",
+                    "image": "https://cdn-live.prm.ol.epicgames.com/prod/f9abceaedcd74879e0e2f2e211e3a65e6b85dc697f4d8f4521004b60d58b17a1-118bfcce-e39d-47d4-8fc8-ce5ba998e2da.jpeg?width=1920&height=1080&aspect=fill",
+                    "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/73e76977dad4e03f5ecb0131f97184783a36672f523a97560bca2216e3b2dad457e2ed5aa9453f5aac5abcd7569d9b63-bed150a5-3fbb-4b4a-ad60-21a302c070e5.jpeg?width=720&height=400&aspect=fill",
+                    "sortingPriority": 90,
+                    "hidden": false
+                },
+                {
+                    "id": "7e20d967424738c5d2aadd4d6871e20c",
+                    "title": "Amours et légendes - récompenses quotidiennes",
+                    "tabTitle": "Amours et légendes - récompenses quotidiennes",
+                    "body": "Remportez d'incroyables récompenses ! Connectez-vous dix jours différents entre le 5 février à 10h (CET) et le 19 février à 10h (CET) pour gagner 9 niveaux et déverrouiller l'écran de chargement Sous les flèches de Chou-pidon.",
+                    "image": "https://cdn-live.prm.ol.epicgames.com/prod/0e249069078385192f453f6b9981d87e11b304e41cede98bc1991edcfc51bee91bf64c004268885614aff7903874d2438a8308b3ce0ad5321b70cec9f8701cb4-343e2e46-fc2e-490d-b269-fb473007a5bb.jpeg?width=1920&height=1080&aspect=fill",
+                    "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/0e249069078385192f453f6b9981d87e11b304e41cede98bc1991edcfc51bee9f99e10d49e7837f337949cc4dabcaa7b3723215c372e249b0bcf8351a2aeb2dd-a3b3c380-ff20-4e89-bdd8-18a7fcb64292.jpeg?width=720&height=400&aspect=fill",
+                    "sortingPriority": 80,
+                    "hidden": false
+                },
+                {
+                    "id": "d3dfa78e1c1ca89cfcacae929f42d7c1",
+                    "title": "Le Passe OG saison 7 est là !",
+                    "tabTitle": "Le Passe OG saison 7 est là !",
+                    "body": "La météo ? Effroyable. Les tenues ? Ravissantes. Récupérez le Passe OG et gagnez de l'EXP n'importe où pour monter de niveau et déverrouiller des récompenses bonus comme les tenues Lynx marcheuse du néant, Sergent Frimas et Rêveuse en grenouillère !",
+                    "image": "https://cdn-live.prm.ol.epicgames.com/prod/b969d31f10fb8c3b7fa25648e65740102dcb074a67975f7d5d439ac19ae44ee1ea16154b7fc2edc921d5622964512ff1-4469eeef-ad6c-46cd-9dcf-02c0f92f75ec.jpeg?width=1920&height=1080&aspect=fill",
+                    "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/b969d31f10fb8c3b7fa25648e6574010ef58f93ef56dfade0043b32f965ebdb2bea6c15381a51dc2f8f5f7ceb6f02c62-f5ea0c2c-396d-4af2-be2f-f013bd1b356c.jpeg?width=720&height=400&aspect=fill",
+                    "sortingPriority": 70,
+                    "hidden": false
+                },
+                {
+                    "id": "b73aa7a5825ac0f6706349af859e463e",
+                    "title": "La Déferlante d'adrénaline est là !",
+                    "tabTitle": "La Déferlante d'adrénaline est là !",
+                    "body": "Planez au cœur de l'action avec la nouvelle combinaison ailée et survivez plus longtemps grâce au dispositif d'auto-réanimation, aux vans de rétablissement pilotables et aux nouvelles options de déplacement lorsque vous êtes K.-O. Variez également vos stratégies grâce à de nouveaux modificateurs qui se déclenchent en cours de partie, les anomalies de faille !",
+                    "image": "https://cdn-live.prm.ol.epicgames.com/prod/efb48d4ddad8da24ac13b0cc94ac5301a5f2e353b33927212c7ad47b20d5608845a58ac6fddd9961c627091c0ac28a6418301927c26cfdf34835d667d357e2f4-e130ab95-6f34-4ce3-bb2f-968f2ba6ad3c.jpeg?width=1920&height=1080&aspect=fill",
+                    "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/efb48d4ddad8da24ac13b0cc94ac5301a5f2e353b33927212c7ad47b20d5608808abdc8c7d3a514e0238451f26ac279c2c875551b1c52994e3055336f8857a82-cdebd31d-3edb-4966-a5cb-de6cac2e4200.jpeg?width=720&height=400&aspect=fill",
+                    "sortingPriority": 60,
+                    "hidden": false
+                }
+            ]
+        },
+        "stw": {
+            "hash": "39c76da55abfac2201ccd7320a9ac07b17934cde",
+            "date": "2026-01-04T20:53:02Z",
+            "messages": [
+                {
+                    "title": "Mise à jour du message du jour",
+                    "body": "Commandants, nous avons déplacé le message Sauver le monde du jour pour qu'il apparaisse lorsque vous vous connectez pour la première fois à Fortnite !",
+                    "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/StW05_MOTD-1024x512_AntiScam-1024x512-1371b58ec57f89e3e6a5946f4f5b6ad5620edabe.jpg"
+                }
+            ]
+        }
+    }
+}
