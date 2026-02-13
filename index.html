@@ -246,6 +246,96 @@
             opacity: 0.85;
             line-height: 1.5;
         }
+
+        .shop-section {
+            margin-top: 40px;
+        }
+
+        .shop-title-section {
+            text-align: center;
+            font-size: 2em;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .shop-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .shop-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-bottom: 3px solid transparent;
+            position: relative;
+        }
+
+        .shop-card-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: linear-gradient(135deg, #ff6b6b, #c92a2a);
+            color: white;
+            font-weight: bold;
+            font-size: 0.9em;
+            padding: 5px 12px;
+            border-radius: 20px;
+            z-index: 1;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .shop-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+        }
+
+        .shop-card-image {
+            width: 100%;
+            height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .shop-card-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .shop-card-info {
+            padding: 15px;
+        }
+
+        .shop-card-type {
+            font-size: 0.75em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: bold;
+        }
+
+        .shop-card-name {
+            font-size: 1em;
+            margin: 5px 0 10px;
+        }
+
+        .shop-card-price {
+            font-size: 0.95em;
+            color: #FFD700;
+            font-weight: bold;
+        }
+
+        .shop-card-old-price {
+            text-decoration: line-through;
+            opacity: 0.5;
+            color: white;
+        }
     </style>
 </head>
 
@@ -389,6 +479,11 @@
             </div>
         </div>
 
+        <div class="shop-section">
+            <h2 class="shop-title-section">🛒 Bonnes affaires du jour</h2>
+            <div class="shop-grid" id="shopContainer"></div>
+        </div>
+
         <div class="news-section">
             <h2 class="news-title-section">📰 Actualités Fortnite</h2>
             <div class="news-grid" id="newsContainer"></div>
@@ -396,6 +491,7 @@
     </div>
 
     <script src="index.js"></script>
+    <script src="shop.js"></script>
     <script src="news.js"></script>
 </body>
 
